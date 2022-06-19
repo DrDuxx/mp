@@ -8,7 +8,7 @@ app.get("/json/:jsonNumber", async (req, res) => {
     if (jsonNumber < 0 || jsonNumber > 6000)
       return res.status(404).json({ message: "Not found" });
     const json = await fs.readFileSync(`./json/${jsonNumber}.json`);
-    return res.status(200).send(json);
+    return res.status(200).json(json);
   } catch (error) {
     console.log(error);
     res.status(500).json({ message: "Something went wrong" });
