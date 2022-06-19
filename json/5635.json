@@ -1,0 +1,23 @@
+{
+  "name": "Muslimus Prime #5635",
+  "description": "A unique collection of 6000 NFTs working to gather the 1st muslim community in the Metaverse. Grab yours now to join!",
+  "image": "ipfs://QmcoDfwXHxFTM397QeCF9ktc4q2QDaV7M1gmBm13ocpJBG/5635.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "bright blue"
+    },
+    {
+      "trait_type": "Brush",
+      "value": "Group 1Layer 1 copy 5"
+    },
+    {
+      "trait_type": "MainCharacter",
+      "value": "nengs_5"
+    }
+  ],
+  "dna": "9cf17f997e099739cd2cf600cc3c26f591eed59d",
+  "edition": 5635,
+  "date": 1653592866433,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

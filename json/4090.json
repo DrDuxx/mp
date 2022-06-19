@@ -1,0 +1,23 @@
+{
+  "name": "Muslimus Prime #4090",
+  "description": "A unique collection of 6000 NFTs working to gather the 1st muslim community in the Metaverse. Grab yours now to join!",
+  "image": "ipfs://QmcoDfwXHxFTM397QeCF9ktc4q2QDaV7M1gmBm13ocpJBG/4090.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Itsukishima-Gate---Japan"
+    },
+    {
+      "trait_type": "Brush",
+      "value": "Group 1Layer 1 copy"
+    },
+    {
+      "trait_type": "MainCharacter",
+      "value": "nengs_3-1"
+    }
+  ],
+  "dna": "fd7582dfa45e0479664ff5e5eac1907453d8db38",
+  "edition": 4090,
+  "date": 1653592446938,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}
